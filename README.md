@@ -1,4 +1,5 @@
-# ⚡ Brain Rush
+# ⚡ QuickThink
+
 
 A fast-paced quiz game that challenges your thinking speed and quick reflexes.
 Test your intelligence and see how fast you can answer!
